@@ -1,0 +1,73 @@
+.background {
+  viewport-fill: white;
+}
+
+#myClock {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 65%;
+  fill: white;
+}
+
+#dateLabel {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 75%;
+  fill: white;
+}
+
+#hrm {
+  font-size: 25;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 12%;
+  y: 8%;
+  fill: white;
+}
+
+#chargeLabel {
+  font-size: 25;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: end;
+  x: 90%;
+  y: 8%;
+  fill: white;
+}
+
+#steps {
+  font-size: 20;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 10%;
+  y: 97%;
+  fill: white;
+}
+
+#calories {
+  font-size: 20;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 55%;
+  y: 97%;
+  fill: white;
+}
+
+#distance {
+  font-size: 20;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: end;
+  x: 97%;
+  y: 97%;
+  fill: white;
+}

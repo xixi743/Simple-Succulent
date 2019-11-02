@@ -1,0 +1,28 @@
+{
+  "fitbit": {
+    "appUUID": "2de3eea9-d4a7-452e-b947-df952c53cc60",
+    "appType": "clockface",
+    "appDisplayName": "DemoClock 2",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "DemoClock 2"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.0.0"
+  }
+}

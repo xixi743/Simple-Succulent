@@ -1,0 +1,17 @@
+<svg>
+  <link rel="stylesheet" href="styles.css" />
+  <image x="0" y="0" width = "100%" height="100%" href="Succulent.jpg" />
+  <image fill="white" x="3%" y="1%" width = "8%" height="8%" href="icons/stat_hr_solid_24px.png" />
+  <image x="90%" y="1%" width = "8%" height="8%" href="icons/battery_24px.png" />
+  <image fill="white" x="2%" y="92%" width = "6%" height="6%" href="icons/stat_steps_solid_24px.png" />
+  <image fill="white" x="41%" y="92%" width = "6%" height="6%" href="icons/stat_cals_solid_24px.png" />
+  <image fill="white" x="75%" y="92%" width = "6%" height="6%" href="icons/stat_dist_solid_24px.png" />
+
+  <text id="myClock" />
+  <text id="hrm" />
+  <text id="dateLabel" />
+  <text id='chargeLabel' />
+  <text id='steps' />
+  <text id='calories' />
+  <text id='distance' />
+</svg>
