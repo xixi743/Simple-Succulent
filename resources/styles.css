@@ -29,7 +29,7 @@
   text-anchor: start;
   x: 12%;
   y: 8%;
-  fill: white;
+  fill: #134022;
 }
 
 #chargeLabel {
@@ -39,7 +39,7 @@
   text-anchor: end;
   x: 90%;
   y: 8%;
-  fill: white;
+  fill: #134022;
 }
 
 #steps {
